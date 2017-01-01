@@ -1,2 +1,2 @@
 # trivia
-The Infinite Trivia Engine
+The Infinite Trivia Engine!
