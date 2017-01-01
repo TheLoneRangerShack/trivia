@@ -1,0 +1,50 @@
+.all {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	background-color: black;
+	color: #cccccc;
+}
+
+#inputline {
+	overflow: hidden;
+	width: 100%;
+	background-color: black;
+	color: #cccccc;
+	border: none;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	autocomplete: off;
+	outline: none;
+}
+#left {
+	margin-right: 235px;
+	padding-right: 10px;
+}
+#right {
+	border-left: 5px solid #ccccc;
+	width: 220px;
+	height: 500px;
+	overflow: auto;
+	padding: 10px;
+	position: absolute;
+	right: 0px;
+}	
+
+#welcome {
+	color: #33CC00
+}
+
+#prompt {
+	display: table-cell;
+}
+
+#command {
+	display: table-cell;
+	width: 100%;
+}
+#commandlinewrapper {
+	display: table;
+}
+#commandline {
+	display: table-row;
+}
